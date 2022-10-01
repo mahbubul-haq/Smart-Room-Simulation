@@ -10,7 +10,7 @@ Md. Mahbubul Haque
 Dr. A. B. M. Alim Al Islam\
 Professor\
 Department of Computer Science and Engineering (CSE)\
-Bangladesh University of Engineering and Technology(BUET)\
+Bangladesh University of Engineering and Technology(BUET)
 ***
 #### How to run the project
 
