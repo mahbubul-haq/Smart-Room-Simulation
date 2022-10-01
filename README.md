@@ -2,6 +2,7 @@
 
 ### CSE 316 - Microprocessors, Microcontrollers, and Embedded Systems Sessional
 #### Smart Room Simulation, which is created using Atmega32 microcontroller, is a simulation of a smart room in Proteus Software.
+Demonstration video: [https://youtu.be/iGjB0XKjxSU?list=PLfReCRONjEPDioWaNAg-qyRMf6ZnwoT51](https://youtu.be/iGjB0XKjxSU?list=PLfReCRONjEPDioWaNAg-qyRMf6ZnwoT51)
 ***
 #### Contributor
 Md. Mahbubul Haque
